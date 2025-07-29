@@ -1,4 +1,5 @@
 /Users/tatyanakadushina/CustomerApi/publish/CustomerApi
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/web.config
 /Users/tatyanakadushina/CustomerApi/publish/publish/web.config
 /Users/tatyanakadushina/CustomerApi/publish/appsettings.Development.json
 /Users/tatyanakadushina/CustomerApi/publish/appsettings.json
@@ -7,6 +8,11 @@
 /Users/tatyanakadushina/CustomerApi/publish/publish/CustomerApi.deps.json
 /Users/tatyanakadushina/CustomerApi/publish/publish/CustomerApi.runtimeconfig.json
 /Users/tatyanakadushina/CustomerApi/publish/publish/CustomerApi.staticwebassets.endpoints.json
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/appsettings.Development.json
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/appsettings.json
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/CustomerApi.deps.json
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/CustomerApi.runtimeconfig.json
+/Users/tatyanakadushina/CustomerApi/publish/publish/publish/CustomerApi.staticwebassets.endpoints.json
 /Users/tatyanakadushina/CustomerApi/publish/CustomerApi.dll
 /Users/tatyanakadushina/CustomerApi/publish/CustomerApi.runtimeconfig.json
 /Users/tatyanakadushina/CustomerApi/publish/CustomerApi.pdb

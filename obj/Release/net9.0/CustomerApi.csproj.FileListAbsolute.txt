@@ -170,3 +170,9 @@
 /Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/CustomerApi.deps.json
 /Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/CustomerApi.runtimeconfig.json
 /Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/CustomerApi.staticwebassets.endpoints.json
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/web.config
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/appsettings.Development.json
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/appsettings.json
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/CustomerApi.deps.json
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/CustomerApi.runtimeconfig.json
+/Users/tatyanakadushina/CustomerApi/bin/Release/net9.0/publish/publish/CustomerApi.staticwebassets.endpoints.json
